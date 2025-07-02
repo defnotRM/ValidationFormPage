@@ -2,7 +2,7 @@
 
 to run the web page
 
-### 1.down load node pages in terminal by
+### 1. download node packages in terminal by
 ```bash
 npm install
 ```
